@@ -1,4 +1,4 @@
-###Salam Mən Nicat 👋
+Salam Mən Nicat 👋
 
 <!--
 **iamnikott/iamnikott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
