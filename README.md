@@ -2,18 +2,13 @@
 ## Salam  Mən Nicat 👋
 
 <div align="center">
-<h3 align="center">Mənimlə əlaqə!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h3>
+<h3 align="center">Mənimlə əlaqə<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h3>
 <center>
 <a href="https://telegram.me/najafov_official"><img src="https://img.icons8.com/nolan/50/telegram-app.png"></a>
 </center>
 </div>    
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-## XTD Developer AZ
-
-<p><em>Telegram üçün <a href="http://www.telegram.com/najafov_official">Nicat</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
 
 <a href="https://t.me/xtdbotfather"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
