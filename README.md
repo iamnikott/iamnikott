@@ -4,9 +4,6 @@
 <div align="center">
 <h3 align="center">Mənimlə əlaqə!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h3>
 <center>
-<a href="https://gmail.com/nicatnecefov5577@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
-</center>
-<center>
 <a href="https://telegram.me/najafov_official"><img src="https://img.icons8.com/nolan/50/telegram-app.png"></a>
 </center>
 </div>    
