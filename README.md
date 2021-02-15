@@ -8,7 +8,7 @@
 </center>
 </div>    
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" alt="cmulay | Read Book" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/designs/multi.gif" width="300" height="300" />
 
 <a href="https://t.me/xtdbotfather"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
