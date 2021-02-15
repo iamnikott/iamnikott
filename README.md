@@ -12,8 +12,6 @@
 
 <a href="https://t.me/xtdbotfather"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/dtbbots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=telegram"></a>
-
 
 </em></p>
 
